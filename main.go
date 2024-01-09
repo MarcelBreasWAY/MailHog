@@ -9,9 +9,9 @@ import (
 
 	"github.com/gorilla/pat"
 	"github.com/ian-kent/go-log/log"
-	"github.com/MarcelBreasWAY/MailHog-Server@1.0.0/api"
-	cfgapi "github.com/MarcelBreasWAY/MailHog-Server@1.0.0/config"
-	"github.com/MarcelBreasWAY/MailHog-Server@1.0.0/smtp"
+	"github.com/MarcelBreasWAY/MailHog-Server/api"
+	cfgapi "github.com/MarcelBreasWAY/MailHog-Server/config"
+	"github.com/MarcelBreasWAY/MailHog-Server/smtp"
 	"github.com/mailhog/MailHog-UI/assets"
 	cfgui "github.com/mailhog/MailHog-UI/config"
 	"github.com/mailhog/MailHog-UI/web"
